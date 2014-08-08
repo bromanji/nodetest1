@@ -1,0 +1,26 @@
+{
+  "name": "node_test_2",
+  "version": "0.0.0",
+  "description": "first raw node and heorku test",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bryan roman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bromanji/nodetest1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bromanji/nodetest1/issues"
+  },
+  "homepage": "https://github.com/bromanji/nodetest1",
+  "dependencies": {
+    "express": "^4.8.2",
+    "logfmt": "^1.1.2"
+  },
+    "engines": {
+      "node": "0.10.x"
+  }
+}
